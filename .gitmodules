@@ -1,0 +1,9 @@
+[submodule "langgraph-mcp-agents"]
+	path = langgraph-mcp-agents
+	url = ./langgraph-mcp-agents
+[submodule "langgraph-react-mcp-chat"]
+	path = langgraph-react-mcp-chat
+	url = ./langgraph-react-mcp-chat
+[submodule "mcpdoc"]
+	path = mcpdoc
+	url = ./mcpdoc
